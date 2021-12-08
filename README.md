@@ -1,0 +1,1 @@
+https://metanit.com/sharp/patterns/2.2.php
