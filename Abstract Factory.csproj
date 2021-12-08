@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Abstract_Factory</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="VictorianSet.cs~RF3de7c7.TMP" />
+  </ItemGroup>
+
+</Project>
